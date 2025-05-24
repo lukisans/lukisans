@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hey there! 👋 I'm Fahmi Lukistriya
 
-<!--
-**lukisans/lukisans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 From Circuits to Smart Contracts
 
-Here are some ideas to get you started:
+**Electrical Engineer** turned **Web3 Developer**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```rust
+struct Developer {
+    name: "Fahmi Lukistriya",
+    background: "Electrical Engineering",
+    current_focus: "Polkadot Ecosystem"
+}
+```
+
+## 🛠️ My Evolution
+
+```
+Electrical Engineering → IoT → Frontend → Fullstack PHP → Web3
+                                                          ↓
+                        Solidity → Polkadot Development
+```
+
+## 🔥 Currently Mastering
+
+- 🦀 **Rust** for substrate development
+- 🕸️ **Polkadot** ecosystem & parachains
+- ⚡ **Smart Contracts** with ink!
+- 🎨 **Frontend** integration with Web3
+- 🏗️ **Substrate** framework
+
+## 🎯 What I'm Building
+
+- 🔗 **DeFi protocols** on Polkadot
+- 🌐 **Web3 frontends** with seamless UX
+- 📱 **dApps** that bridge traditional and decentralized worlds
+
+## 🤝 Let's Connect & Build Together
+
+[LinkedIn](https://www.linkedin.com/in/fahmilukis/) • [Twitter](https://twitter.com/lukisanksatriya) • [Email](mailto:fahmilukis04@gmail.com)
