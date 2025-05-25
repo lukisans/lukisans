@@ -15,9 +15,7 @@ struct Developer {
 ## 🛠️ My Evolution
 
 ```
-Electrical Engineering → IoT → Frontend → Fullstack PHP → Web3
-                                                          ↓
-                        Solidity → Polkadot Development
+Electrical Engineering → Frontend React → Fullstack PHP → Web3 Solidity → Web3 Polkadot
 ```
 
 ## 🔥 Currently Mastering
