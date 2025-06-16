@@ -1,13 +1,12 @@
 # Hey there! 👋 I'm Fahmi Lukistriya
 
-## 🚀 From Farms to Smart Contracts
+## 🚀 From Wordpress to Smart Contracts
 
-**Farmer** turned **Web3 Developer**.
+**Wordpresser** turned **Web3 Developer**.
 
 ```rust
 struct Developer {
     name: "Fahmi Lukistriya",
-    background: "Farmer",
     current_focus: "Learn DeFi"
 }
 ```
@@ -15,7 +14,7 @@ struct Developer {
 ## 🛠️ My Evolution
 
 ```
-Farmer → Frontend React → Fullstack PHP → Learn DeFi
+Wordpress → Frontend React → Fullstack PHP → Learn DeFi
 ```
 
 ## 🔥 Currently Mastering
