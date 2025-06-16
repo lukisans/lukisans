@@ -7,28 +7,27 @@
 ```rust
 struct Developer {
     name: "Fahmi Lukistriya",
-    background: "Electrical Engineering",
-    current_focus: "Polkadot Ecosystem"
+    background: "Farmer",
+    current_focus: "Learn DeFi"
 }
 ```
 
 ## 🛠️ My Evolution
 
 ```
-Electrical Engineering → Frontend React → Fullstack PHP → Web3 Solidity → Web3 Polkadot
+Farmer → Frontend React → Fullstack PHP → Learn DeFi
 ```
 
 ## 🔥 Currently Mastering
 
-- 🦀 **Rust** for substrate development
-- 🕸️ **Polkadot** ecosystem & parachains
-- ⚡ **Smart Contracts** with ink!
-- 🎨 **Frontend** integration with Web3
-- 🏗️ **Substrate** framework
+- 🦀 **Zk** for next goal
+- 🕸️ **EVM** ecosystem
+- ⚡ **Smart Contracts** with solidity and rust-based
+- 🎨 **Frontend** integration using viem
 
 ## 🎯 What I'm Building
 
-- 🔗 **DeFi protocols** on Polkadot
+- 🔗 **DeFi protocols**
 - 🌐 **Web3 frontends** with seamless UX
 - 📱 **dApps** that bridge traditional and decentralized worlds
 
