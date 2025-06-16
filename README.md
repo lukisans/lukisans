@@ -1,8 +1,8 @@
 # Hey there! 👋 I'm Fahmi Lukistriya
 
-## 🚀 From Circuits to Smart Contracts
+## 🚀 From Farms to Smart Contracts
 
-**Electrical Engineer** turned **Web3 Developer**.
+**Farmer** turned **Web3 Developer**.
 
 ```rust
 struct Developer {
