@@ -3,8 +3,9 @@
 ## 🎯 What I'm Building
 
 - 🔗 **DeFi protocols**
-- 🌐 **Web3 frontends** with seamless UX
-- 📱 **dApps** that bridge traditional and decentralized worlds
+- 🌐 **Web3 frontends** with seamless UX  
+- 📱 **dApps**
+- 🔌 **WordPress plugins**  
 
 ## 🤝 Let's Connect & Build Together
 
