@@ -9,4 +9,4 @@
 
 ## 🤝 Let's Connect & Build Together
 
-[LinkedIn](https://www.linkedin.com/in/fahmilukis/) • [Twitter](https://twitter.com/lukisanksatriya) • [Email](mailto:fahmilukis04@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/fahmilukis/) • [Twitter](https://twitter.com/lukisxyz) • [Email](mailto:fahmilukis04@gmail.com)
